@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💻 **Ingenierio en Energias Renovables y Profesional en transición en ciencia de datos**
+💻 **Ingeniero en Energias Renovables y Profesional en transición en ciencia de datos**
 ✏️ **Aficionado a la electricidad**
 👓 **Geek empedernido**
 🌱 **Actualmente estoy aprendiendo Ciencia de datos**
@@ -13,4 +13,3 @@
 ### ✉️ Correo
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardoignaciodm@gmail.com)
-
