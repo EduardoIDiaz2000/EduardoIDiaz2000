@@ -6,5 +6,11 @@
 🌱 **Actualmente estoy aprendiendo Ciencia de datos**
 🤝 **Busco colaborar en proyectos que requieran la aplicación de Data Science**
 
-### Vias de Contacto
-![website](https://www.linkedin.com/in/eduardodiazdev/)
+### 📲 Vías de Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardodiazdev/)
+
+### ✉️ Correo
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardoignaciodm@gmail.com)
+
