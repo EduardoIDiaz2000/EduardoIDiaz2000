@@ -15,6 +15,5 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardoignaciodm@gmail.com)
 
 ### :zap: Actividad Reciente
-<!--STAR_SECTION:activity-->
-
-<!--END_SECTUION:activity-->
+<!--RECENT_ACTIVITY:star-->
+<!--RECENT_ACTIVITY:last_update-->
