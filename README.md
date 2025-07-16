@@ -16,6 +16,4 @@
 
 ### :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [EduardoIDiaz2000/analisis-energia-electrica-peru](https://github.com/EduardoIDiaz2000/analisis-energia-electrica-peru)<br>
-2. 📔 Created new repository [EduardoIDiaz2000/analisis-energia-electrica-peru](https://github.com/EduardoIDiaz2000/analisis-energia-electrica-peru)<br>
 <!--RECENT_ACTIVITY:end-->
